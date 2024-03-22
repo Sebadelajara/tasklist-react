@@ -2,7 +2,7 @@
   "name": "task-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sebadelajara.github.io/tasklist-react.git",
+  "homepage": "https://sebadelajara.github.io/tasklist-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.1.1"
   }
 }
