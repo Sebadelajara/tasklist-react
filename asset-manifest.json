@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tasklist-react.git/static/css/main.4d4d27bc.css",
-    "main.js": "/tasklist-react.git/static/js/main.eda7a1c5.js",
-    "static/js/787.2903c6c9.chunk.js": "/tasklist-react.git/static/js/787.2903c6c9.chunk.js",
-    "index.html": "/tasklist-react.git/index.html",
-    "main.4d4d27bc.css.map": "/tasklist-react.git/static/css/main.4d4d27bc.css.map",
-    "main.eda7a1c5.js.map": "/tasklist-react.git/static/js/main.eda7a1c5.js.map",
-    "787.2903c6c9.chunk.js.map": "/tasklist-react.git/static/js/787.2903c6c9.chunk.js.map"
+    "main.css": "/tasklist-react/static/css/main.4d4d27bc.css",
+    "main.js": "/tasklist-react/static/js/main.bb731bbc.js",
+    "static/js/787.2903c6c9.chunk.js": "/tasklist-react/static/js/787.2903c6c9.chunk.js",
+    "index.html": "/tasklist-react/index.html",
+    "main.4d4d27bc.css.map": "/tasklist-react/static/css/main.4d4d27bc.css.map",
+    "main.bb731bbc.js.map": "/tasklist-react/static/js/main.bb731bbc.js.map",
+    "787.2903c6c9.chunk.js.map": "/tasklist-react/static/js/787.2903c6c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d4d27bc.css",
-    "static/js/main.eda7a1c5.js"
+    "static/js/main.bb731bbc.js"
   ]
 }
